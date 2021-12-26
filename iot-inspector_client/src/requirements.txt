@@ -1,0 +1,5 @@
+requests
+scapy==2.4.3
+netaddr
+netdisco
+netifaces
